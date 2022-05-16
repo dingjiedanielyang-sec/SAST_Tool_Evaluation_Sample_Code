@@ -18,5 +18,10 @@ async function pullSentryEventsBasedOnIssues(issueID){
         .catch(err => console.error(err));
 }
 
-    
+async function match(){
 
+}
+
+async function createJiraTicket(){
+
+}
